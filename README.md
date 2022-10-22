@@ -1,9 +1,20 @@
- # MY INTRODUCTION
-- 👋 Hi, I’m @PARTHIB-DEB
-- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT USING DJANGO AS BACKEND
+ # Hi, I'm PARTHIB! 👋
 
-<!--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
+
+## 🛠 Skills
+FULL STACK WEB DEVELOPMENT...
+
+
+## Tech Stack
+
+**Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP
+
+**Backend:** DJANGO
+
+
+## 🚀 About Me
+I'm a full stack developer. I want to learn how the real world websites work , how database driven tasks are done. I want to explore more about the connection between Frontend , Backend and Database.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
