@@ -5,7 +5,7 @@ I'm a full stack web developer. I want to learn how the real world websites work
 
 
 ## 🛠 Skills
-FULL STACK WEB DEVELOPMENT...
+FULL STACK WEB DEVELOPMENT
 
 
 ## Tech Stack
