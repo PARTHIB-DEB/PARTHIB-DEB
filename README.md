@@ -1,7 +1,7 @@
  # Hi, I'm PARTHIB! 👋
 
 ## 🚀 About Me
-I'm a full stack developer. I want to learn how the real world websites work , how database driven tasks are done. I want to explore more about the connection between Frontend , Backend and Database.
+I'm a full stack web developer. I want to learn how the real world websites work , how database driven tasks are done. I want to explore more about the connection between Frontend , Backend and Database.
 
 
 ## 🛠 Skills
