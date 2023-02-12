@@ -10,7 +10,7 @@ FULL STACK WEB DEVELOPMENT
 
 ## Tech Stack
 
-**Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP
+**Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP , TAILWINDCSS
 
 **Backend:** DJANGO
 
