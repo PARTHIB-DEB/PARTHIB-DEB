@@ -12,7 +12,7 @@ FULL STACK WEB DEVELOPMENT
 
 **Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP , TAILWINDCSS
 
-**Backend:** DJANGO
+**Backend:** DJANGO , DJANGO-REST
 
 
 
