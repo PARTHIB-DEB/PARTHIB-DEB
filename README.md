@@ -8,7 +8,7 @@ I'm a full stack web developer. I want to learn how the real world websites work
 FULL STACK WEB DEVELOPMENT
 
 
-## Tech Stack
+## 🔦 Tech Stack
 
 **Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP , TAILWINDCSS
 
@@ -16,5 +16,5 @@ FULL STACK WEB DEVELOPMENT
 
 
 
-## 🔗 Links
+## 🎷 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
