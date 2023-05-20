@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/D4D16AQGM3O8NxMT7FA/profile-displaybackgroundimage-shrink_350_1400/0/1676710842668?e=1689811200&v=beta&t=0LfMIY_Kq4Pp9VjdMFcy4q40EZz-uPFU1FlTh8LsAhQ)
+![banner](https://media.licdn.com/dms/image/D4D16AQG9p6Td2vkKBQ/profile-displaybackgroundimage-shrink_350_1400/0/1684558732693?e=1689811200&v=beta&t=BzBMimrc-zIBE6xepH4rbEiObqqpN-tEozwZQgcuaJw)
 
 
 # Hi, I'm PARTHIB! 👋
