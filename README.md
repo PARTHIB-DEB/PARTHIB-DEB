@@ -1,4 +1,4 @@
-![banner](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/overlay/background-image/)
+![banner](https://media.licdn.com/dms/image/D4D16AQGM3O8NxMT7FA/profile-displaybackgroundimage-shrink_350_1400/0/1676710842668?e=1689811200&v=beta&t=0LfMIY_Kq4Pp9VjdMFcy4q40EZz-uPFU1FlTh8LsAhQ)
 
 
 # Hi, I'm PARTHIB! 👋
