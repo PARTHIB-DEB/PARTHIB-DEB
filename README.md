@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/D4D16AQG9p6Td2vkKBQ/profile-displaybackgroundimage-shrink_350_1400/0/1684558732693?e=1689811200&v=beta&t=BzBMimrc-zIBE6xepH4rbEiObqqpN-tEozwZQgcuaJw)
+![banner](https://pbs.twimg.com/profile_banners/1596139998117777408/1683440170/1080x360)
 
 
 # Hi, I'm PARTHIB! 👋
