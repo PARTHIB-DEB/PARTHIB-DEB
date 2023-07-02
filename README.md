@@ -17,6 +17,8 @@ FULL STACK WEB DEVELOPMENT
 
 **Backend:** DJANGO , DJANGO-REST
 
+**Database:** Sqlite3 , PostgreSQL
+
 
 
 ## 🎷 Links
