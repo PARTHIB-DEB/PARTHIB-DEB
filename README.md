@@ -13,7 +13,7 @@ FULL STACK WEB DEVELOPMENT
 
 ## 🔦 Tech Stack
 
-**Frontend:** HTML5 , CSS3 , JS , BOOTSTRAP , TAILWINDCSS
+**Frontend:** REACT.JS , TAILWIND-CSS , BOOTSTRAP
 
 **Backend:** DJANGO , DJANGO-REST
 
