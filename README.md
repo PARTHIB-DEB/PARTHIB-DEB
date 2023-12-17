@@ -1,5 +1,5 @@
 ![banner](https://pbs.twimg.com/profile_banners/1596139998117777408/1683440170/1080x360)
-![banner](https://pbs.twimg.com/media/GAguCEDWwAAh8dB?format=jpg&name=4096x4096)
+![banner](https://pbs.twimg.com/media/GBkeAk1bEAAENyv?format=jpg&name=4096x4096)
 
 
 # Hi, I'm PARTHIB! 👋
