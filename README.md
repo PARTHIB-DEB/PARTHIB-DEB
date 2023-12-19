@@ -1,4 +1,5 @@
 ![banner](https://pbs.twimg.com/profile_banners/1596139998117777408/1683440170/1080x360)
+![banner](https://api.githubtrends.io/user/svg/PARTHIB-DEB/langs?time_range=one_year&use_percent=True&theme=dark)
 
 
 # Hi, I'm PARTHIB! 👋
