@@ -1,5 +1,5 @@
 ![banner](https://pbs.twimg.com/profile_banners/1596139998117777408/1683440170/1080x360)
-![banner](https://api.githubtrends.io/user/svg/PARTHIB-DEB/langs?time_range=one_year&use_percent=True&theme=dark)
+
 
 
 # Hi, I'm PARTHIB! 👋
@@ -24,6 +24,8 @@ FULL STACK WEB DEVELOPMENT
 
 ## 🎷 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
+
+![banner](https://api.githubtrends.io/user/svg/PARTHIB-DEB/langs?time_range=one_year&use_percent=True&theme=dark)
 
 ![PARTHIB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARTHIB-DEB&show_icons=true&theme=highcontrast)
 
