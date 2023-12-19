@@ -25,6 +25,8 @@ FULL STACK WEB DEVELOPMENT
 ## 🎷 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=PARTHIB-DEB&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 ![banner](https://api.githubtrends.io/user/svg/PARTHIB-DEB/langs?time_range=one_year&use_percent=True&theme=dark)
 
 ![PARTHIB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARTHIB-DEB&show_icons=true&theme=highcontrast)
