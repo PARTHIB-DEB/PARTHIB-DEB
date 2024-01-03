@@ -1,34 +1,17 @@
-![banner](https://pbs.twimg.com/profile_banners/1596139998117777408/1683440170/1080x360)
-
-
-
 # Hi, I'm PARTHIB! 👋
 
-## 🚀 About Me
-I'm a web developer. I want to learn how the real world websites work , how database driven tasks are done. I want to explore more about the connection between Frontend , Backend and Database.
+### 👦 I am a enthusiastic Web Developer , want to learn how this blackbox works so fine!!.
+### ⛅ I can do frontend in plain HTML , CSS , JS , as-well-as in TailwindCSS.
+### ⛰️ Can't ignore Js man!! , so learning React Js to upskill in frontend.
+### 💻 When it comes to Backend , I do prefer Django - so I have a soft corner for backend.
+### 📫 For Databases , I do prefer Sqlite , PostgreSQL till now.
+### ☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often
 
-
-## 🛠 Skills
-FULL STACK WEB DEVELOPMENT
-
-
-## 🔦 Tech Stack
-
-**Frontend:** REACT.JS , TAILWIND-CSS , BOOTSTRAP
-
-**Backend:** DJANGO , DJANGO-REST
-
-**Database:** Sqlite3 , PostgreSQL
 
 
 
 ## 🎷 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PARTHIB-DEB&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-![banner](https://api.githubtrends.io/user/svg/PARTHIB-DEB/langs?time_range=one_year&use_percent=True&theme=dark)
-
-![PARTHIB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARTHIB-DEB&show_icons=true&theme=highcontrast)
+[![twitter](https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/parthib_deb23)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIB-DEB&layout=pie)](https://github.com/PARTHIB-FRB/github-readme-stats)
