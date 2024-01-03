@@ -4,7 +4,7 @@
 ### ⛅ I can do frontend in plain HTML , CSS , JS , as-well-as in TailwindCSS.
 ### ⛰️ Can't ignore frameworks !! , so learning React Js to upskill in frontend.
 ### 💻 When it comes to Backend , I do prefer Django - so I have a soft corner for backend.
-### 📫 For Databases , I do prefer Sqlite , PostgreSQL till now.
+### 📫 Comfortable in Sqlite , PostgreSQL as databases till now.
 ### ☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often
 
 
