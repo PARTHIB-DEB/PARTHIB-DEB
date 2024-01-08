@@ -1,7 +1,7 @@
 # Hi, I'm PARTHIB! 👋
 
 ### 👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
-### ⛅ I can do frontend in plain HTML , CSS , JS , as-well-as in TailwindCSS.
+### ⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
 ### ⛰️ Can't ignore frameworks !! , so learning React Js to upskill in frontend.
 ### 💻 When it comes to Backend , I do prefer Django.
 ### 📫 Comfortable in Sqlite , PostgreSQL as databases till now.
