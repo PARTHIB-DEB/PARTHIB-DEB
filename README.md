@@ -2,7 +2,7 @@
 
 ### 👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
 ### ⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
-### ⛰️ Can't ignore frameworks !! , so learning React Js to upskill in frontend.
+### ⛰️ Can't ignore Js , so learning React ⚛️ to upskill in frontend.
 ### 💻 When it comes to Backend , I do prefer Django.
 ### 📫 Comfortable in Sqlite , PostgreSQL as databases till now.
 ### ☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often 🚴.
