@@ -1,6 +1,8 @@
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzODIyazJiOHljbHR5ajYxbzBvOTZlc2YxaWpjZnVvdWZleHR3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5hg8yoYjEnUEQlH03/giphy.gif)
+
 # Hi, I'm PARTHIB! 👋
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzODIyazJiOHljbHR5ajYxbzBvOTZlc2YxaWpjZnVvdWZleHR3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5hg8yoYjEnUEQlH03/giphy.gif)
+
 
 ### 👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
 ### ⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
