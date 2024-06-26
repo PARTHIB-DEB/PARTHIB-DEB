@@ -4,12 +4,17 @@
 
 
 
-### 👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
-### ⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
-### 🍴 why do you need a fork when there is no sphagetti 🥣  , so learning Typescript to upskill in frontend.
-### 💻 When it comes to Backend , I do prefer Django.
-### 📫 Comfortable in Sqlite , PostgreSQL as databases till now.
-### ☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often 🚴.
+👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
+
+⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
+
+🍴 why do you need a fork when there is no sphagetti 🥣  , so learning Typescript to upskill in frontend.
+
+💻 When it comes to Backend , I do prefer Django.
+
+📫 Comfortable in Sqlite , PostgreSQL as databases till now.
+
+☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often 🚴.
 
 
 
