@@ -8,7 +8,7 @@
 
 ⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
 
-🍴 why do you need a fork when there is no sphagetti 🥣  , so learning Typescript to upskill in frontend.
+🍴 why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime
 
 💻 When it comes to Backend , I do prefer Django.
 
