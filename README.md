@@ -8,7 +8,7 @@
 
 ⛅ Currently my skills are - Web Dev (Tailwind , Django , DRF , Postgres , Redis , Mongo) . Pretty much ! That's it 🏳️
 
-🍴 why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime 📖
+🍴 Why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime 📖
 
 💻 Have deep interest for backend , databases and the BTS of every software 🕵️
 
