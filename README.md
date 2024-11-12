@@ -4,17 +4,15 @@
 
 
 
-👦 I am an enthusiastic Web Developer , wants to learn how this blackbox works so fine!!
+👦 I am a developer who loves CS , and mathematics (Not so much 😕 , otherwise I would have become a mathematician IG 😆)
 
-⛅ I can do frontend in Vanilla HTML , CSS , JS , as-well-as in TailwindCSS.
+⛅ Currently my skills are - Web Dev (Tailwind , Django , DRF , Postgres , Redis , Mongo) . Pretty much ! That's it 🏳️
 
-🍴 why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime
+🍴 why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime 📖
 
-💻 When it comes to Backend , I do prefer Django.
+💻 Have deep interest for backend , databases and the BTS of every software 🕵️
 
-📫 Comfortable in Sqlite , PostgreSQL as databases till now.
-
-☕ Otherwise , I drink some Tea like a normal human being 😄 and do cycling very often 🚴.
+☕ Otherwise , I drink some Tea/Coffee like a normal human being 😄 and do cycling very often 🚴.
 
 
 
