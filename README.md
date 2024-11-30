@@ -1,5 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3MnU0OWxxYTY1Y2ttYW9vbGZjN2Ryb3gzb2p3aHI5Mm1xeDI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iaDQD7DckLuOnWTVZL/giphy.gif)
 
+![](https://komarev.com/ghpvc/?username=PARTHIB-DEB&color=orange)
+
 # Hi, I'm PARTHIB! 👋
 
 
