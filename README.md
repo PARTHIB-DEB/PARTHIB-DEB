@@ -23,4 +23,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-kumar-deb-a438a6234/)
 [![twitter](https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/parthib_deb23)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIB-DEB&layout=pie)](https://github.com/PARTHIB-FRB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIB-DEB&layout=pie)](https://github.com/PARTHIB-DEB/github-readme-stats)
