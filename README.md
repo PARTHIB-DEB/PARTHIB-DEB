@@ -3,9 +3,7 @@
 
 👦 I am a developer who loves CS , and mathematics (Not so much 😕 , otherwise I would have become a mathematician IG 😆)
 
-⛅ Currently my skills are - Web Dev (Tailwind , Django , DRF , Postgres , Redis , Mongo) . Pretty much ! That's it 🏳️
-
-🍴 Why do you need a fork when there is no sphagetti 🥣  , so learning new techs everytime 📖
+⛅ Currently my skills are - Well ! What become necessary for my project comes into the bucket 🏳️
 
 💻 Have deep interest for backend , databases and the BTS of every software 🕵️
 
