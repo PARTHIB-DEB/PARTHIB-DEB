@@ -10,7 +10,7 @@
 ☕ Otherwise , I drink some Tea/Coffee like a normal human being 😄 and do cycling very often 🚴.
 
 
-## Latest Blogs
+## ✍️ Latest Blogs
 ### DEV Community ➡️ [_link_](https://dev.to/parthib_deb23)
 <div align="center">
   <a href="https://dev.to/parthib_deb23/the-creators-excellence-5bbm">
@@ -47,3 +47,10 @@
 ![](https://komarev.com/ghpvc/?username=PARTHIB-DEB&color=orange)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIB-DEB&layout=pie)](https://github.com/PARTHIB-DEB/github-readme-stats)
+
+## 🔥 Flexing
+  <img width="800" src="https://algora.io/og/user/PARTHIB-DEB" />
+  <img width="680" alt="b4dd85a9-ffb8-40c3-b373-a664b4a8564a" src="https://github.com/user-attachments/assets/4915de08-e2d5-4264-9459-967d15bfe24b" />
+
+
+
