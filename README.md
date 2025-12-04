@@ -44,11 +44,16 @@
 [![twitter](https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/parthib_deb23)
 
 ## ☕ What is brewing
-![](https://komarev.com/ghpvc/?username=PARTHIB-DEB&color=orange)
+![Watchmarker](https://komarev.com/ghpvc/?username=PARTHIB-DEB&color=orange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIB-DEB&layout=pie)](https://github.com/PARTHIB-DEB/github-readme-stats)
+<div align="center">
 
-## 🔥 Flexing
+  ![Langs_Mostly_Used](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARTHIB-DEB&theme=transparent)
+  ![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARTHIB-DEB&theme=transparent)
+</div>
+
+
+## 🔥 2025 Highlights
   <img width="800" src="https://algora.io/og/user/PARTHIB-DEB" />
   <img width="680" alt="b4dd85a9-ffb8-40c3-b373-a664b4a8564a" src="https://github.com/user-attachments/assets/4915de08-e2d5-4264-9459-967d15bfe24b" />
 
